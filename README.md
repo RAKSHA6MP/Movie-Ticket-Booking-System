@@ -60,7 +60,6 @@ Obtain JWT tokens (access & refresh) using the /api/token/ endpoint (if implemen
 Include token in request headers for protected endpoints:
 
 makefile
-Copy code
 Authorization: Bearer <access_token>
 
 Project Structure
